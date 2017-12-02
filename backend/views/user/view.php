@@ -1,11 +1,11 @@
 <?php
 
-use shop\helpers\UserHelper;
+use core\helpers\UserHelper;
 use yii\helpers\Html;
 use yii\widgets\DetailView;
 
 /* @var $this yii\web\View */
-/* @var $model shop\entities\User */
+/* @var $model core\entities\User */
 
 $this->title = $model->id;
 $this->params['breadcrumbs'][] = ['label' => 'Users', 'url' => ['index']];

@@ -4,7 +4,7 @@ namespace backend\forms;
 
 use yii\base\Model;
 use yii\data\ActiveDataProvider;
-use shop\entities\User\User;
+use core\entities\User\User;
 
 class UserSearch extends Model
 {

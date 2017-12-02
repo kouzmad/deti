@@ -1,8 +1,8 @@
 <?php
 
 /* @var $this yii\web\View */
-/* @var $model shop\forms\manage\User\UserEditForm */
-/* @var $user shop\entities\User */
+/* @var $model core\forms\manage\User\UserEditForm */
+/* @var $user core\entities\User */
 
 use yii\bootstrap\ActiveForm;
 use yii\helpers\Html;
