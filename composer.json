@@ -14,10 +14,18 @@
     },
     "minimum-stability": "stable",
     "require": {
-        "php": ">=5.4.0",
+        "php": ">=7.1",
         "yiisoft/yii2": "~2.0.6",
         "yiisoft/yii2-bootstrap": "~2.0.0",
-        "yiisoft/yii2-swiftmailer": "~2.0.0 || ~2.1.0"
+        "yiisoft/yii2-swiftmailer": "~2.0.0 || ~2.1.0",
+        "dmstr/yii2-adminlte-asset": "^2.5",
+        "webmozart/assert": "^1.2",
+        "la-haute-societe/yii2-save-relations-behavior": "*",
+        "kartik-v/yii2-field-range": "dev-master",
+        "yiisoft/yii2-authclient": "^2.1",
+        "kartik-v/yii2-widgets": "*",
+        "paulzi/yii2-nested-sets": "^1.0",
+        "yii-dream-team/yii2-upload-behavior": "*"
     },
     "require-dev": {
         "yiisoft/yii2-debug": "~2.0.0",
